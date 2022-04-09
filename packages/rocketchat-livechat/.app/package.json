@@ -28,7 +28,7 @@
     "meteor-node-stubs": "^0.4.1",
     "mime-db": "^1.37.0",
     "mime-type": "^3.0.7",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "sweetalert2": "^7.29.2",
     "toastr": "^2.1.4",
     "underscore": "^1.9.1",
